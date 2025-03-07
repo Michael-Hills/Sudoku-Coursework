@@ -1,2 +1,4 @@
-8 Puzzle implemention for a general board in 8-PuzzleGeneral.py
-Soduku evolutionary algorithm in sudoku.py
+## Files  
+
+- `8-PuzzleGeneral.py` - Implements the 8-Puzzle problem.  
+- `sudoku.py` - Uses an evolutionary algorithm to solve Sudoku puzzles. 
